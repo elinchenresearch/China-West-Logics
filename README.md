@@ -1,3 +1,11 @@
+📦 **Group Information**
+
+- Works across all repositories — system evolves in parallel.  
+- Terms → see **[Autarchic-Lexicon](../Autarchic-Lexicon)**.  
+- Origins → see **[Epistemic-Autarchy](../Epistemic-Autarchy)**.  
+- Each repo = one node in a wider lattice.  
+---
+
 # China–West-Logics
 
 ## Overview
